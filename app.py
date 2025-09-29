@@ -25,4 +25,3 @@ print("Addition: ", result1)
 print("Subtraction: ", result2)
 print("Multiplication: ", result3)
 print("Division: ", result4)
-
